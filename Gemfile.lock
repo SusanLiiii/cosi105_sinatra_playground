@@ -55,8 +55,8 @@ DEPENDENCIES
   pry-byebug
   rack-test
   rake
-  sinatra (= 2.1.0)
-  sinatra-activerecord (= 2.0.25)
+  sinatra
+  sinatra-activerecord
 
 BUNDLED WITH
    2.2.22
